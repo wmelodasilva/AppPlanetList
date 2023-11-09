@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032917715310",
+    "project_id": "whatsapp-b4f5a",
+    "storage_bucket": "whatsapp-b4f5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032917715310:android:d4345774f448f3600b997f",
+        "android_client_info": {
+          "package_name": "com.example.listadeplanetas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNM7zV1hQt04sW2fxKQyGoOr-lO6xzO7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
